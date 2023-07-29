@@ -1,0 +1,14 @@
+label {
+    font-weight: 600;
+
+}
+
+.unathorized {
+    color: red;
+
+}
+
+.error {
+    color: red;
+
+}
